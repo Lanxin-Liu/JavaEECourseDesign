@@ -6,5 +6,5 @@
 
 ### 用例图
 
-![屏幕快照 2019-11-04 23.58.23](/Users/anonym_co/Desktop/屏幕快照 2019-11-04 23.58.23.png)
+![用例图](https://github.com/Lanxin-Liu/JavaEECourseDesign/blob/master/%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84.png)
 
